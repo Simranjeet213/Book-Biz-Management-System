@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\bin\Debug\BookBizapp2102116.exe.config
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\bin\Debug\BookBizapp2102116.exe
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\bin\Debug\BookBizapp2102116.pdb
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.BookForm.resources
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.Properties.Resources.resources
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.exe
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.pdb
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.ClientsForm.resources
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.UsersForm.resources
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.OrderForm.resources
+C:\Users\Admin\source\repos\BookBizapp2102116\BookBizapp2102116\obj\Debug\BookBizapp2102116.Form1.resources
